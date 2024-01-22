@@ -46,7 +46,7 @@ const Blog = () => {
                 </section>{/ End Breadcrumbs /}
 
 
-                {/ ======= Blog Section ======= /}
+                {/ ======= Blog Section View======= /}
                 <section id="blog" className="blog">
                     <div className="container">
                         <div className="row">
